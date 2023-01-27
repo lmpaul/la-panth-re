@@ -754,6 +754,11 @@ h4 {
     padding: 40px 40px 40px 40px;
 }
 
+.white-background {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 40px 40px 40px 40px;
+}
+
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
@@ -771,8 +776,13 @@ h4 {
     background-color: #F3976C;
 }
 
+.tc-tangerine {
+  color: #F3976C !important;
+}
+
+
 .tc-white {
-    color: #F3976C!important;
+    color: white !important;
 }
 
 .btn-atomic-tangerine {
