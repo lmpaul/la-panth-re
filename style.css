@@ -832,6 +832,14 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+#contact-mail {
+  color: lightseagreen !important;
+}
+
+#contact-mail:hover {
+  font-weight: bold;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
